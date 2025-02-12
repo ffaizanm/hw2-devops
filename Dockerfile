@@ -14,7 +14,7 @@ RUN mvn -f /build/pom.xml clean package
 FROM amazoncorretto:21-alpine
 
 # Metadata
-LABEL maintainer="tmohamm4@depaul.edu"
+LABEL maintainer="ffaizanm@depaul.edu"
 LABEL version="1.0"
 LABEL description="Simple Java Calculator"
 

@@ -9,7 +9,7 @@ metadataTest:
     - key: "description"
       value: "Simple Java Calculator" # Checks for the application description label
     - key: "maintainer"
-      value: "tmohamm4@depaul.edu" # Checks for a label indicating the maintainer
+      value: "ffaizanm@depaul.edu" # Checks for a label indicating the maintainer
 
 fileExistenceTests:
   - name: "Checking Calculator JAR File"
